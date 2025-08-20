@@ -79,7 +79,7 @@ installThemeQuestion(){
 }
 
 repair(){
-    bash <(curl https://raw.githubusercontent.com/NoPro200/Pterodactyl_Nightcore_Theme/main/repair.sh)
+    bash <(curl https://raw.githubusercontent.com/matthias-AFK-RP/Pterodactyl_Nightcore_Theme/main/repair.sh)
 }
 
 restoreBackUp(){
